@@ -14,4 +14,4 @@ An AI-powered physics engine that calculates optimal drop height and angle to ac
 - Scikit-learn (Data Scaling)
 
 ## 🔗 Live Demo
-[Paste your Hugging Face Link Here]
+(https://huggingface.co/spaces/princerubayet/glass-fracture-ai0)
